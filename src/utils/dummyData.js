@@ -1,0 +1,42 @@
+export const resData = [
+    {
+        resName: "Meghana Foods",
+        cuisine: ["Biryani", "North Indian", "Asian"],
+        avgRating: "4.4",
+        deliveryTime: 38,
+        costForTwo: 40000,
+        cloudinaryImageId: "g0isknuhld1ltwxkjkcg",
+    },
+    {
+        resName: "KFC",
+        cuisine: ["Fast Food", "Burger", "American"],
+        avgRating: "3.8",
+        deliveryTime: 25,
+        costForTwo: 30000,
+        cloudinaryImageId: "bdcd233971b7c81bf77e1fa4471280eb",
+    },
+    {
+        resName: "Domino's Pizza",
+        cuisine: ["Pizza", "Italian", "Desserts"],
+        avgRating: "4.1",
+        deliveryTime: 30,
+        costForTwo: 35000,
+        cloudinaryImageId: "21e7e5e45176da8b791c06a0ea555246",
+    },
+    {
+        resName: "Empire Restaurant",
+        cuisine: ["Biryani", "Kebabs", "South Indian"],
+        avgRating: "3.2",
+        deliveryTime: 40,
+        costForTwo: 45000,
+        cloudinaryImageId: "f37dea51bb701e4fe80162e317982747",
+    },
+    {
+        resName: "Truffles",
+        cuisine: ["Cafe", "Burger", "Desserts"],
+        avgRating: "4.5",
+        deliveryTime: 28,
+        costForTwo: 50000,
+        cloudinaryImageId: "5e19832da032dd69547565e27104706f",
+    },
+];
